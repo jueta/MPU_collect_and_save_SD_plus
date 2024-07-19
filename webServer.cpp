@@ -38,11 +38,9 @@ String MyWebServer::SendHTML(float valueNumber){
   ptr +="</style>\n";
   ptr +="</head>\n";
   ptr +="<body>\n";
-  ptr +="<h1>Equinos</h1>\n";
   ptr +="<h2>Media: ";
   ptr += valueNumber;
   ptr += "</h2>\n";
-  ptr +="<h3>Vitau Automation</h3>\n";
   ptr +="</body>\n";
   ptr +="</html>\n";
 

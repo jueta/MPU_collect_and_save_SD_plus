@@ -7,8 +7,8 @@ void web_task(void *pvParameters);
 
 typedef struct WebStruct{
 
-    const char* ssid = "APP";  // Enter SSID here
-    const char* password = "12345678";  //Enter Password here
+    const char* ssid = "xxx";  // Enter SSID here
+    const char* password = "xxx";  //Enter Password here
 
 } webStructure;
 
